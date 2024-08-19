@@ -1,0 +1,42 @@
+CREATE TABLE fatture (
+me_name varchar(255) NOT NULL,
+me_piva varchar(50) NTO NULL,
+me_codfisc varchar(50),
+me_addr varchar(50),
+me_addr2 varchar(50),
+me_email varchar(255),
+me_phone varchar(50),
+billto_name
+billto_addr
+billto_addr2
+billto_piva
+billto_cc
+billto_dp
+invoice_date
+inviode_num
+desc_code
+desc_desc
+desc_qt
+desc_unitprice
+desc_discount
+desc_vat
+desc_totalnovat
+desc_total
+desc_currency
+total_subtotal
+total_vat
+total_currency
+total_total
+total_other_currency
+total_currency2
+total_subtotal_2currency
+bankdetails_bankaccount
+bankdetails_bankname
+)
+
+CREATE TABLE fatture (
+year 2021
+month 7 07
+date 202107
+fatt
+)
